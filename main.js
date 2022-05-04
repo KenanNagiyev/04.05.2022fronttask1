@@ -1,0 +1,6 @@
+let img =document.querySelector("img")
+image1.onclick= () => img.setAttribute("src","http://take.az/uploads/posts/2013-04/1367053434_2011-cars-images-audi-r8-tdi-le-mans-04.jpg")
+image2.onclick= () => img.setAttribute("src","http://take.az/uploads/posts/2013-04/1367053660_lamborghini-cars-hd-wallpaper.jpg")
+image3.onclick= () => img.setAttribute("src","https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhcnN8ZW58MHx8MHx8&w=1000&q=80")
+image4.onclick= () => img.setAttribute("src","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WFAibPXJFTfLliXtCsCG2sp_czGP9HHRgjvurH63ixsTXKKcnK3udx0GmmEshfII_1k&usqp=CAU")
+image5.onclick= () => img.setAttribute("src","https://upload.az/foto/arxiv/1249402211_u7_4693[1]2.jpg")
